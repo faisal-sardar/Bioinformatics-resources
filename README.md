@@ -125,7 +125,7 @@ This is a database containing sequences of transcription terminator sequences an
 -Genscan 
 Used to predict the exon-intron sites in genomic sequences. 
 
-- Softberry Tools 
+-Softberry Tools 
 Several tools are specialized in annotation of animal, plant, and bacterial genomes along with the structure and function prediction of RNA and proteins.
 
 -MEGA (Molecular Evolutionary Genetics Analysis) 
@@ -149,7 +149,8 @@ Software to view the phylogenetic trees, with the provision of changing view.
 -Jalview 
 It is an alignment editor and is used to refine the alignment 
 
--Nucleotide Databases 
+
+- Nucleotide Databases 
 
 DNA Data Bank of Japan 
 It is the member of International Nucleotide Sequence Databases (INSD) and is one of the biggest resources for nucleotide sequences. 
@@ -163,7 +164,7 @@ It is the member of International Nucleotide Sequence Databases (INSD) and is a 
 Rfam 
 A collection of RNA families, represented by multiple sequence alignments
 
--Protein Databases 
+- Protein Databases 
 
 Uniprot One of the largest collection of protein sequences. 
 
@@ -185,7 +186,7 @@ Describes the protein families, conserved domains and actives sites
 Proteomics Identifications 
 Database A public source, containing supporting evidence for functional characterization and post-translation modification of proteins and peptides.
 
--Genome databases 
+- Genome databases 
 
 Ensembl 
 It is a database containing annotated genomes of eukaryotes including human, mouse and other vertebrates. 
@@ -193,7 +194,7 @@ It is a database containing annotated genomes of eukaryotes including human, mou
 PIR 
 An integrated public resource to support genomic and proteomic research
 
--Miscellaneous Databases 
+- Miscellaneous Databases 
 
 Medherb 
 Resource database for medicinally important herbs 
@@ -211,7 +212,7 @@ The Arabidopsis Information Resource (TAIR) maintains a database of genetic and 
 dictyBase 
 dictyBase is an online bioinformatics database for Dictyostelium discoideum. 
 
--Signalling & Metabolic Pathway Databases 
+- Signalling & Metabolic Pathway Databases 
 
 KEGG 
 KEGG is a suite of databases and associated software for understanding and simulating higher-order functional behaviours of the cell or the organism from its genome information. 
@@ -227,6 +228,8 @@ The Pathway Interaction Database (PID) is a collection of curated and peer-revie
 
 HMDB 
 The Human Metabolome Database (HMDB) is the most comprehensive curated collection of human metabolite and human metabolism data in the world. It contains records for more than 2180 endogenous metabolites with information gathered from thousands of books, journal articles and electronic databases along an extensive collection of experimental metabolite concentration data compiled from hundreds of mass spectra (MS) and Nuclear Magnetic resonance (NMR) from the analyses performed on urine, blood and cerebrospinal fluid samples. The HMDB is designed to address the broad needs of biochemists, clinical chemists, physicians, medical geneticists, nutritionists and members of the metabolomics community
+
+
 
 -CATH 
 A semi-automatic tool for the categorized organization of proteins. 
